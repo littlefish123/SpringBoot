@@ -1,0 +1,6 @@
+com\example\BatchConfiguration.class
+com\example\JobCompletionNotificationListener.class
+com\example\User.class
+com\example\BatchServiceApplication.class
+com\example\BatchConfiguration$1.class
+com\example\UserItemProcessor.class

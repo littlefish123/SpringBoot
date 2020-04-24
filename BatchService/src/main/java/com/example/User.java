@@ -1,8 +1,9 @@
 package com.example;
 
 public class User {
-	private String lastName;
     private String firstName;
+	private String lastName;
+ 
 	
 	   @Override
 	public String toString() {
@@ -20,7 +21,7 @@ public class User {
 	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
-	public User(String lastName, String firstName) {
+	public User(String firstName, String lastName) {
 		this.lastName = lastName;
 		this.firstName = firstName;
 	}
